@@ -11,11 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environment Remote sensing, Chiba University, Supervisor: Kazuhito ICHII, 2026 (expected)  
-* M.S. in Environment Remote sensing, Chiba University, Supervisor: Kazuhito ICHII, 2023  
-* B.S. in Remote sensing, Capital Normal University, 2019  
+* Ph.D (2026 expected)
+  * Chiba University
+  * College: Graduate School of Science and Engineering
+  * Major: Division of Earth and Environmental Sciences (Environmental Remote Sensing)
+  * Supervisor: Kazuhito ICHII
 
+* M.S. (2023)
+  * Chiba University
+  * College: Graduate School of Science and Engineering
+  * Major: Division of Earth and Environmental Sciences (Environmental Remote Sensing)
+  * Supervisor: Kazuhito ICHII
+    
+* B.S. (2019)
+  * Capital Normal University
+  * College: Resources and Environment
+  * Major: Remote sensing science and technology
   
+
 Skills
 ======
 * Programing  
@@ -27,7 +40,6 @@ Skills
 * Deeplearning Framework  
   *  Tensorflow  
   *  Pytorch  
-* Server Maintenance  
 
 Scholarship
 ======

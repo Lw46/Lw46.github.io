@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
   
-_**Undergraduate**_
+<small>_**Undergraduate**_<small>
 ======
 Capital Normal University  
 Major in Remote Sensing  
 Sep. 2015 ~ Jun. 2019  
 Bachelor of Engineering  
 
-_**Master**_
+<small>_**Master**_<small>
 ======
 Chiba University  
 Center for Environmental Remote Sensing  
@@ -28,14 +28,14 @@ Apr. 2021 ~ Mar. 2023
 Master of Engineering  
 Supervisor: Kazuhito ICHII  
 
-_**Doctor**_
+<small>_**Doctor**_<small>
 ======
 Chiba University  
 Major in Environment Remote sensing  
 Apr. 2023 ~ Now  
 Supervisor: Kazuhito ICHII  
 
-_**Lab's Homepage**_
+<small>_**Lab's Homepage**_<small>
 ======
 https://ichiilab.weebly.com/
 

@@ -6,18 +6,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Undergraduate
-======
-Capital Normal University , Major in Remote Sensing, Sep. 2015 ~ Jun. 2019, Bachelor of Engineering
-首都師範大学　リモートセンシング専攻 2015年9月 ~ 2019年6月 工学学士
 
-Master
-======
-Chiba University, Center for Environmental Remote Sensing, Research Students, Apr. 2020 ~ Mar. 2021
-千葉大学大学院　環境リモート研究センター　研究生　2020年4月 ~ 2021年3月
 
-Chiba University, Major in Environment Remote sensing, Apr. 2021 ~ Mar. 2023, Master of Engineering
-千葉大学大学院　リモートセンシング専攻  2021年4月 ~ 2023年3月　工学修士
+**_Undergraduate_**
+======
+Capital Normal University / 首都師範大学
+Major in Remote Sensing / リモートセンシング専攻
+Sep. 2015 ~ Jun. 2019 / リモートセンシング専攻 
+Bachelor of Engineering / 工学学士
+
+**_Master_**
+======
+Chiba University / 千葉大学
+Center for Environmental Remote Sensing / 環境リモートセンシング研究センター　
+Apr. 2020 ~ Mar. 2021 / 2020年4月 ~ 2021年3月
+Research Students / 研究生
+Supervisor: Kazuhito ICHII / 指導教員　市井　和仁
+
+Chiba University / 千葉大学大学院
+Major in Environment Remote sensing / リモートセンシング専攻
+Apr. 2021 ~ Mar. 2023 / 2021年4月 ~ 2023年3月
+Master of Engineering / 工学修士
+Supervisor: Kazuhito ICHII / 指導教員　市井　和仁
+
+**_Doctor_**
+======
+Chiba University / 千葉大学大学院
+Major in Environment Remote sensing / リモートセンシング専攻
+Apr. 2023 ~ Now / 2021年4月 ~ 今
+Supervisor: Kazuhito ICHII / 指導教員　市井　和仁
 
 A data-driven personal website
 ======

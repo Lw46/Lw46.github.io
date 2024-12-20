@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Self Introduction"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+  
 _**Undergraduate**_
 ======
 Capital Normal University  

@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
+
+<small>** **<small>
 _**Undergraduate**_
 ======
 Capital Normal University  

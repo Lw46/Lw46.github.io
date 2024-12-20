@@ -6,34 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-    
+  
 _***Undergraduate***_
 ======
-Capital Normal University
-Major in Remote Sensing
-Sep. 2015 ~ Jun. 2019
-Bachelor of Engineering
+Capital Normal University  
+Major in Remote Sensing  
+Sep. 2015 ~ Jun. 2019  
+Bachelor of Engineering  
 
 _***Master***_
 ======
-Chiba University
-Center for Environmental Remote Sensing
-Apr. 2020 ~ Mar. 2021
-Research Students
-Supervisor: Kazuhito ICHII 
+Chiba University  
+Center for Environmental Remote Sensing  
+Apr. 2020 ~ Mar. 2021  
+Research Students  
+Supervisor: Kazuhito ICHII   
 
-Chiba University
-Major in Environment Remote sensing
-Apr. 2021 ~ Mar. 2023
-Master of Engineering
-Supervisor: Kazuhito ICHII
+Chiba University  
+Major in Environment Remote sensing  
+Apr. 2021 ~ Mar. 2023  
+Master of Engineering  
+Supervisor: Kazuhito ICHII  
 
 _***Doctor***_
 ======
-Chiba University
-Major in Environment Remote sensing
-Apr. 2023 ~ Now
-Supervisor: Kazuhito ICHII
+Chiba University  
+Major in Environment Remote sensing  
+Apr. 2023 ~ Now  
+Supervisor: Kazuhito ICHII  
 
 _**Lab's Homepage**_
 ======

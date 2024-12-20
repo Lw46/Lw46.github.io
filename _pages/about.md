@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Self Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Undergraduate
+======
+Capital Normal University , Major in Remote Sensing, Sep. 2015 ~ Jun. 2019, Bachelor of Engineering
+首都師範大学　リモートセンシング専攻 2015年9月 ~ 2019年6月 工学学士
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Master
+======
+Chiba University, Center for Environmental Remote Sensing, Research Students, Apr. 2020 ~ Mar. 2021
+千葉大学大学院　環境リモート研究センター　研究生　2020年4月 ~ 2021年3月
+
+Chiba University, Major in Environment Remote sensing, Apr. 2021 ~ Mar. 2023, Master of Engineering
+千葉大学大学院　リモートセンシング専攻  2021年4月 ~ 2023年3月　工学修士
 
 A data-driven personal website
 ======

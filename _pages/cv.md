@@ -47,19 +47,3 @@ Japan Science and Technology Agency Support for Pioneering Research Initiated by
 the Next Generation, All Directional Innovation Creator Ph.D. Project (ALDIC-
 PhD)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

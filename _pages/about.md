@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Self Introduction"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
   
 Himawari-8/9 AHI Land Surface Reflectance Dataset
 ======

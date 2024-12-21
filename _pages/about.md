@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a second year Ph.D student from [ICHII Lab](https://ichiilab.weebly.com/) at [Chiba University](https://www.chiba-u.ac.jp/e/) in Japan.  
-My supervisor is [Prof. Kazuhito Ichii](https://researchmap.jp/kichii?lang=en) from [Center for Environmental Remote Sensing (CEReS)](https://ceres.chiba-u.jp/en/top-eng/) from Chiba University.
-My research interest incluing Terrestrial monitoring, Geostationary Satellite Land Product Development, BRDF modelling and deep learning.
+Welcome to Wei Li's webpage!
+======
+I'm a second-year Ph.D. student from [ICHII Lab](https://ichiilab.weebly.com/) at [Chiba University](https://www.chiba-u.ac.jp/e/) in Japan.  
+My supervisor is [Prof. Kazuhito Ichii](https://researchmap.jp/kichii?lang=en) from [Center for Environmental Remote Sensing (CEReS)](https://ceres.chiba-u.jp/en/top-eng/) at Chiba University.
+My research interests include terrestrial monitoring, geostationary satellite land product development, BRDF modeling, and Deep learning.
 
 AGU24
 ======

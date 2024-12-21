@@ -11,6 +11,14 @@ I'm a second year Ph.D student from [ICHII Lab](https://ichiilab.weebly.com/) at
 My supervisor is [Prof. Kazuhito Ichii](https://researchmap.jp/kichii?lang=en) from [Center for Environmental Remote Sensing (CEReS)](https://ceres.chiba-u.jp/en/top-eng/) from Chiba University.
 My research interest incluing Terrestrial monitoring, Geostationary Satellite Land Product Development, BRDF modelling and deep learning.
 
+AGU24
+======
+Our group attended AGU24 in Washington, DC.
+![AGU24 Conference](../images/agu24.png)
+My poster
+![AGU24 Poster](../images/AGU_2024_V3.png)
+
+
 Himawari-8/9 AHI Land Surface Reflectance Dataset was published
 ======
 Himawari-8/9 AHI Land Surface Reflectance(LSR) Dataset has been published at CEReS's FTP server.

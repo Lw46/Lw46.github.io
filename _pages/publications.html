@@ -5,32 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Published</h2>
+<ol>
+  <li>
+    <i><b>Li W</b></i>, K. Ichii, B. Zhang, Y. Yamamoto, W. Yang, T. Miura, H. Yoshioka, M. Matsuoka, K. Obata, R.C. Sharma, H. Yamamoto, H. Irie, P. Khatri, B. Liley, I. Morino, H. Takenaka, A. Higuchi (2025) 
+    Estimating land surface reflectance from a next-generation geostationary meteorological satellite, Himawari 8/9 AHI. 
+    <i>Journal of Meteorological Society of Japan</i>. 
+    <a href="http://doi.org/10.2151/jmsj.2025-005" target="_blank">http://doi.org/10.2151/jmsj.2025-005</a>. (Open Access)
+  </li>
+  <li>
+    Zhang B., K. Ichii, <i><b>W. Li</b></i>, Y. Yamamoto, W. Yang, R.C. Sharma, H. Yoshioka, K. Obata, M. Matsuoka, T. Miura (2025) 
+    Evaluation of Himawari-8 AHI land surface reflectance at mid-latitudes using LEO sensors with off-nadir observation. 
+    <i>Remote Sensing of Environment</i>, 316, 114491. 
+    <a href="https://doi.org/10.1016/j.rse.2024.114491" target="_blank">https://doi.org/10.1016/j.rse.2024.114491</a>. (Open Access)
+  </li>
+</ol>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<h2>Under review</h2>
+<ol>
+  <li>
+    W. Yang, Z. Qiao, <i><b>W. Li</b></i>, X. Ma, K. Ichii, 
+    An enhanced RPV model to better capture hotspot signatures in vegetation canopy reflectance observed by the geostationary meteorological satellite Himawari-8, 
+    <i>SRS</i>, (Under review)
+  </li>
+</ol>

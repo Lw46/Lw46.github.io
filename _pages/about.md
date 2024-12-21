@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student from [ICHII Lab](https://ichiilab.weebly.com/) at [Chiba University](https://www.chiba-u.ac.jp/e/) in Japan.  
+I'm a second-year Ph.D. student from <img src="../images/ichiilab.png" alt="Lab logo" style="width: 1em; height: 1em; vertical-align: middle;"> [ICHII Lab](https://ichiilab.weebly.com/) at [Chiba University](https://www.chiba-u.ac.jp/e/) in Japan.
 My supervisor is [Prof. Kazuhito Ichii](https://researchmap.jp/kichii?lang=en) from [Center for Environmental Remote Sensing (CEReS)](https://ceres.chiba-u.jp/en/top-eng/) at Chiba University.
 My research interests include terrestrial monitoring, geostationary satellite land product development, BRDF modeling, and Deep learning.
 
